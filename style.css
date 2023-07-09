@@ -172,3 +172,44 @@ nav ul li {
 .author_list {
   padding: 15px;
 }
+
+/* appointment section */
+
+.appointment {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  background-color: red;
+  border-radius: 50px;
+  width: 80%;
+  margin: auto;
+  margin-top: -70px;
+  padding: 30px;
+}
+
+.a_img {
+  height: 100px;
+  width: 100px;
+}
+
+.a_info {
+  padding: 20px;
+  border-right: 2px solid white;
+}
+
+.a_heading {
+  font-size: 20px;
+  color: white;
+}
+
+.a_p {
+  font-size: 30px;
+  color: white;
+}
+
+.a_paragraph_big {
+  color: white;
+  padding: 10px;
+  width: 60%;
+  font-size: 20px;
+}
